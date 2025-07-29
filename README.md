@@ -43,16 +43,23 @@ Exit
 Enter your choice: 1
 
 Enter Roll No: 101
+
 Enter Name: Yamuna
+
 Enter Course: Java
+
 Enter Marks: 92
+
 ✅ Student added successfully!
 
 Enter your choice: 2
 --- Student Records ---
 Roll No: 101
+
 Name : Yamuna
+
 Course : Java
+
 Marks : 92
 
 
