@@ -25,5 +25,7 @@ public class Student {
    public static void main(String[] args) {
         Student s1 = new Student(101, "Yamuna", "Java", 90);
         s1.display();
+         Student s2 = new Student(103, "Ganga", "Java", 99);
+        s2.display();
     }
 }
